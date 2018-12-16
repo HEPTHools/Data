@@ -1,4 +1,4 @@
-## Welcome to the Data Repository for files associated with the Adinkra.m package!
+## Data Repository for files associated with the Adinkra.m package
 
 **Files associated with the paper [ArXiv:XXXX,XXXXX](paper url)** for the 4D, N=1 matter gravitino and non-minimal supergravity multiplets, each with 20 boson x 20 fermion degrees of freedom. Right click or command click to download the raw files below. You may need to delete a .txt from the end of [Compare20x20Reps.nb](https://raw.githubusercontent.com/kstiffle/hello-world/master/Compare20x20Reps.nb)  (.nb file should end with .nb for Mathematica to be able to use it) after downloading it. The notebook is the main file to use, it requires the [Adinkra.m](https://hepthools.github.io/Adinkra/) package and the data files [dWvH.m](https://raw.githubusercontent.com/kstiffle/hello-world/master/dWvH.m), [OS.m](https://raw.githubusercontent.com/kstiffle/hello-world/master/OS.m), and [nmSG.m](https://raw.githubusercontent.com/kstiffle/hello-world/master/nmSG.m) listed below. 
 
