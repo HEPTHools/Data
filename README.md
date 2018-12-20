@@ -3,7 +3,7 @@
 **Files associated with the paper [arXiv:1812.07680 ](https://arxiv.org/pdf/1812.07680.pdf)** for the 4D, N=1 matter gravitino and non-minimal supergravity multiplets, each with 20 boson x 20 fermion degrees of freedom. Right click or command click to download the raw files below. 
 
 
-[Compare20x20Reps.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/20x20/Compare20x20Reps.nb) is the master notebook used to compare the three data files (.m files)
+[Compare20x20Reps.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/20x20/Compare20x20Reps.nb) is the master notebook used to compare data from the three .m files
 
 [dWvH.m](https://raw.githubusercontent.com/HEPTHools/Data/master/20x20/dWvH.m) for the de Wit-van Holten formulation (dWvH) of matter gravitino 
 
