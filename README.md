@@ -1,5 +1,5 @@
-# Data Repository for files associated with the Adinkra.m package
 # In association with the Brown Theoretical Physics Center (BTPC)
+# A data repository for files associated with the Adinkra.m package
 
 ## Files associated with the paper [arXiv:1812.07680 ](https://arxiv.org/pdf/1812.07680.pdf)
 This paper investigated the 4D, N=1 matter gravitino and non-minimal supergravity multiplets, each with 20 boson x 20 fermion degrees of freedom. Right click or command click to download the raw files below. 
