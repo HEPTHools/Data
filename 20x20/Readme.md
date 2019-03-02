@@ -12,4 +12,4 @@ This paper investigated the 4D, N=1 matter gravitino and non-minimal supergravit
 
 After downloading the .nb file, you may need to delete a .txt extension. All .m files must be in the same directory as the .nb file for it to run properly.
 
-[Table Of Contents](https://hepthools.github.io/Adinkra/)
+[Table Of Contents](https://hepthools.github.io/Data/)
