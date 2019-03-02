@@ -24,8 +24,7 @@ This paper takes the 4D, N=2 Tensor multiplet and the 4D, N=2 Vector multiplet a
 * [4D N=4 CV Specific GL2R Central Charges.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%3D4%20CV%20Specific%20GL2R%20Central%20Charges.nb) 
 calculates the central charges for the 4D, N=4 vector multiplet with the particular GL(2,R) choice in the paper.
 
-* [4D N=4 TV Specific GL2R Central Charges.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%3D4%20TV%20Specific%20GL2R%20Central%20Charges.nb)  
-calculates the central charges for the 4D, N=4 vector-tensor multiplet with the particular GL(2,R) choice in the paper. Requires the .m file in the next bulletpoint:
+* [4D N=4 TV Specific GL2R Central Charges.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%3D4%20TV%20Specific%20GL2R%20Central%20Charges.nb) calculates the central charges for the 4D, N=4 vector-tensor multiplet with the particular GL(2,R) choice in the paper. Requires the .m file in the next bulletpoint:
 
 * [N4TVUpToTildeTilde.m](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/N4TVUpToTildeTilde.m) must be in the same directory as the .nb file above.
 
