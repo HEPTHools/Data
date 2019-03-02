@@ -11,3 +11,5 @@ This paper investigated the 4D, N=1 matter gravitino and non-minimal supergravit
 * [nmSG.m](https://raw.githubusercontent.com/HEPTHools/Data/master/20x20/nmSG.m) and [nmSGprime.m](https://raw.githubusercontent.com/HEPTHools/Data/master/20x20/nmSGprime.m) for the non-minimal supergravity (nmSG) formulation
 
 After downloading the .nb file, you may need to delete a .txt extension. All .m files must be in the same directory as the .nb file for it to run properly.
+
+[Table Of Contents](https://hepthools.github.io/Adinkra/)
