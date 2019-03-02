@@ -15,4 +15,4 @@ calculates the central charges for the 4D, N=4 vector multiplet with the particu
 
 After downloading the .nb files, you may need to delete a .txt extension.
 
-[Table Of Contents](https://hepthools.github.io/Adinkra/)
+[Table Of Contents](https://hepthools.github.io/Data/)
