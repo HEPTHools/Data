@@ -1,4 +1,4 @@
-## Files associated with the paper [arXiv:1812.07680 ](https://arxiv.org/pdf/1812.07680.pdf)
+# Files associated with the paper [arXiv:1812.07680 ](https://arxiv.org/pdf/1812.07680.pdf)
 This paper investigated the 4D, N=1 matter gravitino and non-minimal supergravity multiplets, each with 20 boson x 20 fermion degrees of freedom. Right click or command click to download the raw files below. The .nb file requires the [Adinkra.m](https://hepthools.github.io/Adinkra/) package.
 
 
@@ -13,7 +13,7 @@ This paper investigated the 4D, N=1 matter gravitino and non-minimal supergravit
 After downloading the .nb file, you may need to delete a .txt extension. All .m files must be in the same directory as the .nb file for it to run properly.
 
 
-## Files associated with the paper [arXiv:1812.04236](https://arxiv.org/pdf/1812.04236.pdf)
+# Files associated with the paper [arXiv:1812.04236](https://arxiv.org/pdf/1812.04236.pdf)
 This paper takes the 4D, N=2 Tensor multiplet and the 4D, N=2 Vector multiplet and from them creates a GL(2,R) x GL(2,R) 4D, N=4 Tensor-Vector multiplet. Right click or command click to download the raw files below. The .nb files require the [Adinkra.m](https://hepthools.github.io/Adinkra/) package.
 
 
