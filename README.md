@@ -1,4 +1,4 @@
-# Data Repository Table of Contents
+# Table of Contents
 The links below contain data files for the associated ArXiv papers.
 
 
