@@ -17,5 +17,5 @@ You may need to delete a .txt from the end of [Compare20x20Reps.nb](https://raw.
 This paper takes the 4D, N=2 Tensor multiplet and the 4D, N=2 Vector multiplet and from them creates a GL(2,R) x GL(2,R) 4D, N=4 Tensor-Vector multiplet.
 
 
-* [4D N = 4 CV No Closure.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%20%3D%204%20CV%20No%20Closure.nb) and [4D N = 4 TV No Closure.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%20%3D%204%20CV%20No%20Closure.nb) demonstrate that there must be central charges in both merging an N=2 Vector multiplet with an N=2 Hypermultiplet and an N=2 Vector multiplet with an N=2 Tensor Multiplet.
+* [4D N = 4 CV No Closure.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%20%3D%204%20CV%20No%20Closure.nb) and [4D N = 4 TV No Closure.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%20%3D%204%20TV%20No%20Closure.nb) demonstrate that there must be central charges in both merging an N=2 Vector multiplet with an N=2 Hypermultiplet and an N=2 Vector multiplet with an N=2 Tensor Multiplet.
 
