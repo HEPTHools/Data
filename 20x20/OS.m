@@ -1,3 +1,5 @@
+(* ::Package:: *)
+
 L[OS] = {{{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 + s0, 0, 0, 0, 0, 0, 0}, 
       {0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1 - s0, 0, 0, 0, 0}, 
       {0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1 + s0, 0, 0, 0, 0, 0, 0, 0}, 
@@ -11666,21 +11668,21 @@ VtildePMCoeffs[1][OS][2, 3] =
       {0, 0, 0, 0}}, {{0, 0, 0, (4 - 8*s0^2)/(5*nz[5])}, {0, 0, 0, 0}, 
       {0, 0, 0, 0}, {0, 0, 0, 0}}}
  
-LCString[OS] = "LCoeffs, "
+CMessage[OS][1,1] = "LCoeffs, "
  
-RCString[OS] = "RCoeffs, "
+CMessage[OS][2,1] = "RCoeffs, "
  
-GALRCString[OS] = "GALRCoeffs, "
+CMessage[OS][3,1] = "GALRCoeffs, "
  
-GARLCString[OS] = "GARLCoeffs, "
+CMessage[OS][4,1] = "GARLCoeffs, "
  
-VCString[OS] = "VCoeffs, "
+CMessage[OS][5,1] = "VCoeffs, "
  
-VtildeCString[OS] = "VtildeCoeffs, "
+CMessage[OS][6,1] = "VtildeCoeffs, "
  
-VPMCString[OS] = "VPMCoeffs, "
+CMessage[OS][7,1] = "VPMCoeffs, "
  
-VtildePMCString[OS] = "and VtildePMCoeffs"
+CMessage[OS][8,1] = "VtildePMCoeffs"
  
 ncis[OS] = 3
  

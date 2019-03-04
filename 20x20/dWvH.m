@@ -1,3 +1,5 @@
+(* ::Package:: *)
+
 L[dWvH] = {{{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 + c0, 0, 0, 0, 0, 0, 
        0}, {0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1 - c0, 0, 0, 0, 
        0}, {0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1 + c0, 0, 0, 0, 0, 0, 0, 0}, 
@@ -12454,21 +12456,21 @@ VtildePMCoeffs[1][dWvH][2, 3] =
       {0, 0, 0, 0}}, {{0, 0, 0, (-16*c0*(1 + c0))/(5*nz[5])}, {0, 0, 0, 0}, 
       {0, 0, 0, 0}, {0, 0, 0, 0}}}
  
-LCString[dWvH] = "LCoeffs, "
+CMessage[dWvH][1,1] = "LCoeffs, "
  
-RCString[dWvH] = "RCoeffs, "
+CMessage[dWvH][2,1] = "RCoeffs, "
  
-GALRCString[dWvH] = "GALRCoeffs, "
+CMessage[dWvH][3,1] = "GALRCoeffs, "
  
-GARLCString[dWvH] = "GARLCoeffs, "
+CMessage[dWvH][4,1] = "GARLCoeffs, "
  
-VCString[dWvH] = "VCoeffs, "
+CMessage[dWvH][5,1] = "VCoeffs, "
  
-VtildeCString[dWvH] = "VtildeCoeffs, "
+CMessage[dWvH][6,1] = "VtildeCoeffs, "
  
-VPMCString[dWvH] = "VPMCoeffs, "
+CMessage[dWvH][7,1] = "VPMCoeffs, "
  
-VtildePMCString[dWvH] = "and VtildePMCoeffs"
+CMessage[dWvH][8,1] = "VtildePMCoeffs"
  
 ncis[dWvH] = 4
  

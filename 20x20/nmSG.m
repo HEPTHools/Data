@@ -1,3 +1,5 @@
+(* ::Package:: *)
+
 L[nmSG] = {{{0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -g0, 0, 0, 0, 0, 0, 0, 0}, 
       {0, 0, 0, -1/2, 0, 1/2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, 
       {1/2, 0, 0, 0, 0, 0, 0, 0, 0, 1/2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, 
@@ -15541,21 +15543,21 @@ VtildePMCoeffs[1][nmSG][2, 3] =
      {{0, 0, 0, (4*(4*g0*n*(1 + 3*n) + n*(1 + 4*n) + (g0 + 3*g0*n)^2))/
         (5*n*nz[5])}, {0, 0, 0, 0}, {0, 0, 0, 0}, {0, 0, 0, 0}}}
  
-LCString[nmSG] = "LCoeffs, "
+CMessage[nmSG][1,1] = "LCoeffs, "
  
-RCString[nmSG] = "RCoeffs, "
+CMessage[nmSG][2,1] = "RCoeffs, "
  
-GALRCString[nmSG] = "GALRCoeffs, "
+CMessage[nmSG][3,1] = "GALRCoeffs, "
  
-GARLCString[nmSG] = "GARLCoeffs, "
+CMessage[nmSG][4,1] = "GARLCoeffs, "
  
-VCString[nmSG] = "VCoeffs, "
+CMessage[nmSG][5,1] = "VCoeffs, "
  
-VtildeCString[nmSG] = "VtildeCoeffs, "
+CMessage[nmSG][6,1] = "VtildeCoeffs, "
  
-VPMCString[nmSG] = "VPMCoeffs, "
+CMessage[nmSG][7,1] = "VPMCoeffs, "
  
-VtildePMCString[nmSG] = "and VtildePMCoeffs"
+CMessage[nmSG][8,1] = "VtildePMCoeffs"
  
 ncis[nmSG] = 1
  
