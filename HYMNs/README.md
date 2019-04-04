@@ -4,6 +4,6 @@ This paper reports the Height Yielding Matrix Numbers (HYMNs)for all GR(2,2) adi
 
 * [HYMNS.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/HYMNs/HYMNS.nb) a notebook that confirms the HYMNs for GR(2,2) and randomly confirms the HYMNs for GR(4,4).
 
-After downloading the .nb file, you may need to delete a .txt extension. All .m files must be in the same directory as the .nb file for it to run properly.
+After downloading the .nb file, you may need to delete a .txt extension. 
 
 [Table Of Contents](https://hepthools.github.io/Data/)
