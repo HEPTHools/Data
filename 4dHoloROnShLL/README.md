@@ -9,7 +9,9 @@ This paper reports on 4D, N=1 on shell holoraumy. Right click or command click t
 
 * [4D N = 1 MGM On Shell 4DCalcs.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/4dHoloROnShLL/4D%20N%20%3D%201%20MGM%20On%20Shell%204DCalcs.nb) calculates the on shell algebra and holoraumy for the matter gravitino supermultiplet.
 
-* [4D N = 1 SG On Shell 4DCalcs.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/4dHoloROnShLL/4D%20N%20%3D%201%20SG%20On%20Shell%204DCalcs.nb) calculates the on shell algebra and holoraumy for supergravity.
+* [4D N = 1 SG On Shell 4DCalcs.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/4dHoloROnShLL/4D%20N%20%3D%201%20SG%20OnShell%204DCalcs.nb) calculates the on shell algebra and holoraumy for supergravity.
+
+* [4D N = 1 TS On Shell 4DCalcs.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/4dHoloROnShLL/4D%20N%20%3D%201%20TS%20On%20Shell%204DCalcs.nb) calculates the on shell algebra and holoraumy for the tensor supermultiplet (TS).
 
 After downloading the .nb file, you may need to delete a .txt extension. 
 
