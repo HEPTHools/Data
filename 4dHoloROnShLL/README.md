@@ -1,4 +1,4 @@
-# Files associated with the paper [arXiv:XXXX.XXXXX](https://arxiv.org/pdf/XXXX.XXXXX.pdf)
+# Files associated with the paper [arXiv:1906.02971](https://arxiv.org/pdf/1906.02971.pdf)
 This paper reports on 4D, N=1 on shell holoraumy. Right click or command click to download the raw files below. The [Adinkra.m](https://hepthools.github.io/Adinkra/) package is required.
 
 * [4D N = 1 CS On Shell 4DCalcs.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/4dHoloROnShLL/4D%20N%20%3D%201%20CS%20On%20Shell%204D%20Calcs.nb) calculates the on shell algebra and holoraumy for the chiral supermultiplet (CS).
