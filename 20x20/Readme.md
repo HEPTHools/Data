@@ -1,5 +1,5 @@
 # Files associated with the paper [arXiv:1812.07680 ](https://arxiv.org/pdf/1812.07680.pdf)
-This paper investigated the 4D, N=1 matter gravitino and non-minimal supergravity multiplets, each with 20 boson x 20 fermion degrees of freedom. Right click or command click to download the raw files below. The .nb file requires the [Adinkra.m](https://hepthools.github.io/Adinkra/) package.
+This paper investigated the 4D, N=1 matter gravitino and non-minimal supergravity multiplets, each with 20 boson x 20 fermion degrees of freedom. Right click or control click to download the raw files below. The .nb file requires the [Adinkra.m](https://hepthools.github.io/Adinkra/) package.
 
 
 * [Compare20x20Reps.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/20x20/Compare20x20Reps.nb) is the master notebook used to compare data from the six .m files below.
