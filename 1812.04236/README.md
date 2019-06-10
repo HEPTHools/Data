@@ -1,5 +1,5 @@
 # Files associated with the paper [arXiv:1812.04236](https://arxiv.org/pdf/1812.04236.pdf)
-This paper takes the 4D, N=2 Tensor multiplet and the 4D, N=2 Vector multiplet and from them creates a GL(2,R) x GL(2,R) 4D, N=4 Tensor-Vector multiplet. Right click or command click to download the raw files below. The .nb files require the [Adinkra.m](https://hepthools.github.io/Adinkra/) package.
+This paper takes the 4D, N=2 Tensor multiplet and the 4D, N=2 Vector multiplet and from them creates a GL(2,R) x GL(2,R) 4D, N=4 Tensor-Vector multiplet. Right click or control click to download the raw files below. The .nb files require the [Adinkra.m](https://hepthools.github.io/Adinkra/) package.
 
 
 * [4D N = 4 CV No Closure.nb](https://raw.githubusercontent.com/HEPTHools/Data/master/1812.04236/4D%20N%20%3D%204%20CV%20No%20Closure.nb) demonstrates that there must be central charges in fusing the 4D, N=2 vector multiplet and 4D, N=2 hypermultiplet into a 4D, N=4 vector multiplet.
